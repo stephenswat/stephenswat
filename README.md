@@ -1,10 +1,9 @@
 ### Hello!
 
-Hi there! My name is Stephen, and I'm a PhD student of computer science at the
-University of Amsterdam. My research consists of developing high performance
-algorithms for high energy physics. Specifically, I work on the @acts-project
-project, where I am trying to bring GPGPU technology to track reconstruction.
-Or the other way around, perhaps. It depends on how you look at it, I suppose.
+Hi there! My name is Stephen, and I'm a high-performance scientific software
+engineer at the European Organisation for Nuclear Research (CERN).
+Specifically, I work on @acts-project, where I am trying to bring
+GPGPU technology to track reconstruction.
 
 Besides high performance computing, I am also enamoured with programing
 language theory, functional programming, and compilers. I enjoy learning more
